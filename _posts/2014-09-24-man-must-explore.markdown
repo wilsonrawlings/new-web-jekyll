@@ -1,10 +1,11 @@
 ---
 layout:     post
 title:      "Our Trip to the Moon!"
-subtitle:   "Problems look mighty small from 150 miles up"
+subtitle:   "Hidden in south-central Idaho sits Craters of the Moon National Monument and Preserve, a park created by volcanic eruptions over tens of thousands 			of years. After leaving Steamboat, Colorado and heading West on out second annual May road trip, we arrived at this crazy spot. For the majority of 			the journey we drove through typical farmlands and cattle fields until suddenly everything changed. In the distance dark black rocks covered the 				ground with hills that seemed to be made of black sand and craters on either side of the road."
 date:       2019-05-27 
 author:     "Wilson Rawlings + Sophia Marseilles"
-related_img: "../img/post/19-craters-moon/head.jpg"
+header_img: "../img/post/19-craters-moon/head.jpg"
+
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
