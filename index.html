@@ -14,7 +14,7 @@ description: "Homepage"
         <p class="card-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         <h4 class="card-title">            {{ post.title }}
         </h4>
-		{% if page.header_image %}
+		{% if post.header_image %}
   			<img class="card-img" src="{{ post.header_image }}" alt="" width="90%">
 		{% endif %}
         {% if post.subtitle %}
