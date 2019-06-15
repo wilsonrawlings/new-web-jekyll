@@ -1,16 +1,16 @@
 # Site settings
-title: Wilson A Rawlings
+title: Sights+Soph
 header-img: img/home-bg.jpg
 email: me@wilsonrawlings.com
-copyright_name: Wilson A Rawlings
-description: "portfollio and Resume for Wilson A Rawlings"
+copyright_name: Wilson A Rawlings + Sophia Marseilles
+description: "Sights+Soph"
 baseurl: ""
 url: "http://j.wilsonrawlings.com"
 twitter_username: 
-github_username:  wilsonrawlings
-facebook_username:  rawlingswa
+github_username:  
+facebook_username: 
 email_username:  me@wilsonrawlings.com
-instagram_username: wilson_rawlings
+instagram_username: sophski5
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
