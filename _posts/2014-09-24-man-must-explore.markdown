@@ -4,7 +4,7 @@ title:      "Our Trip to the Moon!"
 subtitle:   "Hidden in south-central Idaho sits Craters of the Moon National Monument and Preserve, a park created by volcanic eruptions over tens of thousands 			of years. After leaving Steamboat, Colorado and heading West on out second annual May road trip, we arrived at this crazy spot. For the majority of 			the journey we drove through typical farmlands and cattle fields until suddenly everything changed. In the distance dark black rocks covered the 				ground with hills that seemed to be made of black sand and craters on either side of the road."
 date:       2019-05-27 
 author:     "Wilson Rawlings + Sophia Marseilles"
-image.feature: "../img/post/19-craters-moon/head.jpg"
+image.feature: "img/post/19-craters-moon/head.jpg"
 
 ---
 
