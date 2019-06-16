@@ -9,14 +9,11 @@ description: "Homepage"
 
 
 {% for post in paginator.posts %}
-<article class="card mb-4">
-<header class="card-header">
 <div class="card mb-4">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <p class="card-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         <h4 class="card-title">            {{ post.title }}
         </h4>
-		</header>
 		{% if post.header-image %}
   		<img class="card-img" src="{{ post.header-image }}" alt="" width="90%"/>
         {% endif %}		
@@ -27,7 +24,6 @@ description: "Homepage"
         {% endif %}
     </a>
 </div>
-			</article>
 	
 {% endfor %}
 
