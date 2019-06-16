@@ -5,6 +5,7 @@ subtitle:   "Hidden in south-central Idaho sits Craters of the Moon National Mon
 date:       2019-05-27 
 author:     "Wilson Rawlings + Sophia Marseilles"
 header-img: "img/post/19-craters-moon/head.jpg"
+category:	Idaho
 
 ---
 
